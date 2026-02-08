@@ -1,4 +1,4 @@
-## My Personal Portfolio WebSite
+<!-- ## My Personal Portfolio WebSite
 
 
 Personal portfolio website made with Django framework in the backend, and with CSS, JS, and Bootstrap for the frontend. It is a dynamic site so that you can control the content of the site through the admin area.
@@ -24,4 +24,4 @@ Personal portfolio website made with Django framework in the backend, and with C
 <img aline="center" src="https://i.imgur.com/1S57RqD.png" alt="secreenshot">
 
 #### About & Contact Me Sections:
-<img aline="center" src="https://i.imgur.com/djYOST6.png" alt="secreenshot">
+<img aline="center" src="https://i.imgur.com/djYOST6.png" alt="secreenshot"> -->
